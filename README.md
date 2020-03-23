@@ -30,6 +30,7 @@ Upper right has environment information, history and connections.
 
 Bottom right has information about your workspace.
 
+More information about RStudio is available [**here**](https://datacarpentry.org/R-ecology-lesson/00-before-we-start.html)
 
 **1.2 Complete Introduction to R on Datacamp**
 
