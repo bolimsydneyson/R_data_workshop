@@ -20,7 +20,7 @@ Installation is available **here**[https://rstudio.com/products/rstudio/download
 
 When you open your RStudio it will look like this.
 
-![alt text]['/images/rstudio.PNG']
+![alt text][https://raw.githubusercontent.com/bolimsydneyson/R_data_workshop/master/images/rstudio.PNG]
 
 Upper left is editor for code execution.
 
