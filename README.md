@@ -8,7 +8,7 @@ For those who are new to data manipulation and visualization, this is the worksh
 
 For those who are completely new to programming in R, please make sure that you follow the instructions below so that you can make the most of this workshop.
 
-Please email **me**(mailto:bs3222@columbia.edu) if you have any questions.
+Please email [**me**](mailto:bs3222@columbia.edu) if you have any questions.
 
 ## 1. Before the Workshop
 
@@ -16,7 +16,7 @@ Please email **me**(mailto:bs3222@columbia.edu) if you have any questions.
 
 Make sure that your computer has RStudio. RStudio is a program that assists your coding in R. RStudio has a console, editor for code execution, and variety of tools that helps for plotting, viewing history, debugging and managing your workspace.
 
-Installation is available **here**(https://rstudio.com/products/rstudio/download/). Download the free version that has open source license.
+Installation is available [**here**](https://rstudio.com/products/rstudio/download/). Download the free version that has open source license.
 
 When you open your RStudio it will look like this.
 
@@ -35,7 +35,7 @@ Bottom right has information about your workspace.
 
 If you are completely new to R (i.e. you have never programmed in R), this free, introductory course on R offered by Datacamp will be of help.
 
-Datacamp's "Introduction to R" course is available **here**(https://learn.datacamp.com/courses/free-introduction-to-r).
+Datacamp's "Introduction to R" course is available [**here**](https://learn.datacamp.com/courses/free-introduction-to-r).
 
 
 **1.3 Install Zoom**
