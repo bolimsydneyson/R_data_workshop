@@ -10,6 +10,11 @@ For those who are completely new to programming in R, please make sure that you 
 
 Please email [**me**](mailto:bs3222@columbia.edu) if you have any questions.
 
+## Zoom Link
+Join Zoom Meeting
+https://columbiauniversity.zoom.us/j/542930840
+
+
 ## 1. Before the Workshop
 
 **1.1 Install RStudio**
