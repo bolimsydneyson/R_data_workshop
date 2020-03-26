@@ -10,10 +10,6 @@ For those who are completely new to programming in R, please make sure that you 
 
 Please email [**me**](mailto:bs3222@columbia.edu) if you have any questions.
 
-## Zoom Link
-Join Zoom Meeting
-https://columbiauniversity.zoom.us/j/542930840
-
 
 ## 1. Before the Workshop
 
@@ -58,6 +54,9 @@ Feel free to ask any questions! You can use the chatroom on Zoom.
 The whole workshop will be recorded and be made available.
 
 
+## 3. Video link
+
+Link to lesson recordings are available [**here**](https://drive.google.com/drive/folders/18M42T92Vbfh3P4TQBk9I6XLc3tUgIRbN?usp=sharing).
 
 
 The content for this workshop is from Data Carpentry's ecology lessons.
