@@ -17,6 +17,9 @@
 #install.packages("readr")
 #install.packages("dplyr")
 #install.packages("ggplot2")
+#install.packages("stringr")
+#install.packages("lubridate")
+#install.packages("tidyr")
 
 # Load libraries (load the libraries once they are installed)
 library(readr)
@@ -396,29 +399,7 @@ ggplot(data = yearly_counts,
        mapping = aes(x = genus, y = n)) +
   geom_violin()
 
-
-
-
-
 # Note:R cheatsheet available on the Github web
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # 2. Faceting ---------------------------------------
