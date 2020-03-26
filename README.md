@@ -56,7 +56,7 @@ The whole workshop will be recorded and be made available.
 
 ## 3. Video link
 
-Link to lesson recordings are available [**here**](https://drive.google.com/drive/folders/18M42T92Vbfh3P4TQBk9I6XLc3tUgIRbN?usp=sharing).
+Link to lesson recordings are available upon request. Please email [**me**](mailto:bs3222@columbia.edu)
 
 
 The content for this workshop is from Data Carpentry's ecology lessons.
